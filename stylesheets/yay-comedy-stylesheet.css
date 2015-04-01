@@ -10,8 +10,8 @@ iframe {
 
 img {
   padding-bottom:15px;
-  width:100%;
-  height:width*.78;
+  width:1.0;
+  height:.78;
 }
 
 p {
