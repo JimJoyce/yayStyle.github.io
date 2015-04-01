@@ -8,6 +8,11 @@ iframe {
   width:100%;
 }
 
+img {
+  padding-bottom:15px;
+  width:100%;
+}
+
 p {
   line-height: 2em;
   font-family: 'Century Gothic',CenturyGothic,'Apple Gothic',AppleGothic,sans-serif;
