@@ -11,7 +11,7 @@ iframe {
 img {
   padding-bottom:15px;
   width:100%;
-  height:width*1.7;
+  height:width/1.7;
 }
 
 p {
