@@ -9,7 +9,7 @@ body {
   background: -ms-linear-gradient(top,  #021521 1%,#073755 21%,#021521 49%,#073755 72%,#021521 100%);
   background: linear-gradient(to bottom,  #021521 1%,#073755 21%,#021521 49%,#073755 72%,#021521 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#021521', endColorstr='#021521',GradientType=0 );
-
+  background-repeat:repeat-y;
 }
 iframe {
   padding-bottom: 10px;
