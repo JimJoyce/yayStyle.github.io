@@ -1,7 +1,7 @@
 body {
   display: block;
   margin: 0px;
-  background-color:#ff174d;
+  background-color:#021521;
 
 }
 iframe {
@@ -12,6 +12,7 @@ iframe {
 img {
   padding-bottom:15px;
   width:100%;
+  height:77.8%;
 }
 
 p {
