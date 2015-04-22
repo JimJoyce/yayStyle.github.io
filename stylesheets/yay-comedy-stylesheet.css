@@ -1,7 +1,7 @@
 body {
   display: block;
   margin: 0px;
-  background-color:linear-gradient(down, #021521, #073755, #021521);
+  background:linear-gradient(down, #021521, #073755, #021521);
 
 }
 iframe {
