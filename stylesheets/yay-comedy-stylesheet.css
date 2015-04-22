@@ -1,8 +1,8 @@
 body {
   display: block;
   margin: 0px;
-  background:linear-gradient(down, #021521, #073755, #021521);
-  background:-webkit-linear-gradient(down, #021521, #073755, #021521);
+  background:linear-gradient(vertical, #021521, #073755, #021521);
+  background:-webkit-linear-gradient(vertical, #021521, #073755, #021521);
 
 }
 iframe {
