@@ -22,11 +22,17 @@ img {
   width:100%;
   height:auto;
 }
-
-p:nth-child(1){
+img:nth-child(1) {
   line-height: 2em;
-  padding-left:.1em;
-  padding-right:.1em;
+  padding-left:.2em;
+  padding-right:.2em;
+  font-family: 'Century Gothic',CenturyGothic,'Apple Gothic',AppleGothic,sans-serif;
+  text-align: left;
+  color: #eaeaea;
+}
+
+p {
+  line-height: 2em;
   font-family: 'Century Gothic',CenturyGothic,'Apple Gothic',AppleGothic,sans-serif;
   text-align: left;
   color: #eaeaea;
