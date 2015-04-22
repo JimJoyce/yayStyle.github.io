@@ -24,6 +24,8 @@ img {
 
 p {
   line-height: 2em;
+  padding-left:.1em;
+  padding-right:.1em;
   font-family: 'Century Gothic',CenturyGothic,'Apple Gothic',AppleGothic,sans-serif;
   text-align: center;
   color: #eaeaea;
